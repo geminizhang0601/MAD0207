@@ -8,8 +8,8 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
-            <option value="/home/scm-studs/a0547990/AndroidStudioProjects/MAD0207" />
-            <option value="/home/scm-studs/a0547990/AndroidStudioProjects/MAD0207/app" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
       </GradleProjectSettings>
